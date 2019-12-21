@@ -1,0 +1,25 @@
+[
+  {
+    "tipoVehiculo": "Coche",
+    "espaciosLibres": "3",
+    "nomConductor": "Pepita Morena",
+    "localidad": "Carrer de Petrarca, 21",
+    "descripcion": "Si quieres venir conmigo necesito que sepas conducir, son muchas horas de trayecto..."
+
+  },
+  {
+    "tipoVehiculo": "Moto",
+    "espaciosLibres": "1",
+    "nomConductor": "Alejandro Martinez",
+    "localidad": "Passeig de Maragall, 292",
+    "descripcion": "No bebo alcohol, por eso te propongo que vayamos y volvamos juntos!"
+  },
+  {
+    "tipoVehiculo": "Camioneta",
+    "espaciosLibres": "0",
+    "nomConductor": "Andres Jimenez",
+    "localidad": "Passeig de Maragall, 350-352",
+    "descripcion": "Me encanta tanto conducir como beber, no te prometo que volvamos juntos pero la pasaremos genial!"
+  }
+]
+

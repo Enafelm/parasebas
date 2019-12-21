@@ -1,0 +1,24 @@
+[
+  {
+    "nomEvent": "Fiesta en el instituto",
+    "direccio": "Pau Claris, 120",
+    "fecha": "21/12/2019",
+    "hora": "23:00",
+    "descripcio": "Fiesta en el insti Jaume Balmes, no te la puedes perder!"
+  },
+  {
+    "nomEvent": "Fiesta en la plaza",
+    "direccio": "Carrer d'Alella 54",
+    "fecha": "27/12/2019",
+    "hora": "23:00",
+    "descripcio": "Fiesta en la plaza, trae a tus amigos!"
+  },
+  {
+    "nomEvent": "Fiesta en la playa",
+    "direccio": "Barceloneta",
+    "fecha": "20/6/2019",
+    "hora": "12:00",
+    "descripcio": "Fiesta en la playa, no te olvides el bañador!"
+  }
+]
+
